@@ -1,0 +1,10 @@
+canvas {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid black;
+}
+
+body {
+    background-color: gray
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"victory.js","sourceRoot":"","sources":["../../src/phase/victory.ts"],"names":[],"mappings":";;;AACA,mCAA+B;AAE/B,MAAa,OAAQ,SAAQ,aAAK;IAAlC;;QAEI,kBAAa,GAAG,IAAI,CAAA;IAOxB,CAAC;IALG,IAAI,CAAC,SAAoB,EAAE,UAAkB;QACzC,KAAK,CAAC,IAAI,CAAC,SAAS,EAAE,UAAU,CAAC,CAAA;QACjC,SAAS,CAAC,QAAQ,CAAC,IAAI,CAAC,cAAc,CAAC,CAAA;IAC3C,CAAC;CAEJ;AATD,0BASC"}
